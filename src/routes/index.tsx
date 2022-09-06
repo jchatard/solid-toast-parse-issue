@@ -1,6 +1,6 @@
 import { Title } from "solid-start";
 import Counter from "~/components/Counter";
-import toast, { Toaster } from 'solid-toast';
+import { Toaster } from 'solid-toast';
 
 export default function Home() {
   return (
